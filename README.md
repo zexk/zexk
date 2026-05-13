@@ -1,5 +1,3 @@
-# zexk
-
 Backend and systems-focused developer interested in infrastructure tooling, distributed systems, realtime systems, and low-level software development.
 
 Currently building:
