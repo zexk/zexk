@@ -4,4 +4,4 @@ Backend and systems developer. Infrastructure tooling, distributed systems, real
 
 Nix/NixOS, C, Go, TypeScript, Zig, Vulkan.
 
-[zexk.xyz](https://zexk.xyz)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zexkeientei)
