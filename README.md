@@ -1,4 +1,4 @@
-![moe-counter](https://count.chiya.dev/get/@zexk?theme=moebooru)
+![moe-counter](https://count.getloli.com/@zexk?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 Backend and systems developer. Infrastructure tooling, distributed systems, realtime networking, low-level and graphics programming.
 
