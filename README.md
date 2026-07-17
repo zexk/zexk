@@ -2,8 +2,6 @@ Systems and backend engineer. Distributed systems, realtime networking, low-leve
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zexkeientei)
 
-## Stack
-
-Nix/NixOS, C, Go, TypeScript, Zig, Vulkan.
+**Stack:** Nix/NixOS, C, Go, TypeScript, Zig, Vulkan.
 
 ![moe-counter](https://count.getloli.com/@zexk?theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
